@@ -1,0 +1,85 @@
+# Node.js / React
+node_modules/
+npm-debug.log
+yarn-error.log
+/build
+/dist
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# MacOS
+.DS_Store
+
+# Java
+*.class
+*.war
+*.ear
+*.jar
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Miscellaneous
+*.swp
+*.swo
+*~
+Thumbs.db
+*.bak
+
+# Eclipse
+.project
+.classpath
+.c9/
+.settings/
+bin/
+tmp/
+
+# Spring Boot
+*.springBeans
+
+# IDE files
+*.idea
+*.iml
+*.ipr
+
+# Environment variables
+.env
+
+# MySQL dump
+*.sql
