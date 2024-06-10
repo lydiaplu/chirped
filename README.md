@@ -1,6 +1,6 @@
 # Chirped
 
-**Chirped** is a full-stack project that mimics Twitter's functionality for posting messages and comments, as well as following users. This project is being developed for an Intuit interview and is still in progress.
+**Chirped** is a full-stack project that mimics Twitter's functionality for posting messages and comments, as well as following users. The project is still in progress.
 
 ## Project Description
 
